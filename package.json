@@ -8,7 +8,9 @@
   },
   "author": "Mouli",
   "license": "MIT",
+  "homepage": "https://moulichan99.github.io/Mywebsite",
   "dependencies": {
+    "gh-pages": "^3.1.0",
     "node-sass": "^4.14.1"
   }
 }
